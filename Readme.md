@@ -5,7 +5,7 @@ Brutr Force saldırılarına karşı güçlü ve karışık şifreler oluşturma
 ## İndirme 
 
 ```bash
-git clone 'https://github.com/morbius-os/pass-generator
+git clone https://github.com/morbius-os/pass-generator
 ```
 
 ## Kullanım
